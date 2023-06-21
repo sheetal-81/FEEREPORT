@@ -1,0 +1,72 @@
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: sheetal gupta
+Father's Name: munna gupta
+RollNumber: 30
+Email ID: 121sheetal2060@sjcem.edu.in
+Contact Number: 9545645322
+Wants to take: ECE
+Wants to Join in School of Engineering and Applied Sciences
+Wants to be a Day Scholar 
+Had chosen: ECE(2, 50, 000)
+Had chosen: 5 SHARE(1, 20, 000)
+ Total amount to be paid is 3.8 Lakhs 
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Father's Name: 
+RollNumber: 
+Email ID: 
+Contact Number: 
+Wants to take: ECE
+Wants to Join in School of Engineering and Applied Sciences
+Wants to be a Day Scholar 
+Had chosen: ECE(2, 50, 000)
+Had chosen: 5 SHARE(1, 20, 000)
+ Total amount to be paid is 3.8 Lakhs 
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: SHASHI
+Father's Name: MUNNA
+RollNumber: 32
+Email ID: 121shashi@sjcem.edu.in
+Contact Number: 9545645322
+Wants to take: IT
+Wants to Join in School of Liberal Arts and Sciences
+Wants to be a Hosteller 
+Had chosen: IT(2, 50, 000)
+Had chosen: 5 SHARE(1, 20, 000)
+ Total amount to be paid is 3.8 Lakhs 
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: sheetal gupta
+Father's Name: munna gupta
+RollNumber: 50
+Email ID: gmunna352@gmail.com
+Contact Number: 1236547890
+Wants to take: COMP
+Wants to Join in School of Engineering and Applied Sciences
+Wants to be a Day Scholar 
+Had chosen: COMP(2, 50, 000)
+Had chosen: 8 SHARE(1, 10, 000)
+ Total amount to be paid is 3.7 Lakhs 
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: sheetal gupta
+Father's Name: munna gupta
+RollNumber: 25
+Email ID: 121sheetal2060@sjcem.edu.in
+Contact Number: 9545645322
+Wants to take: IT
+Wants to Join in School of Engineering and Applied Sciences
+Wants to be a Hosteller 
+Had chosen: IT(2, 50, 000)
+Had chosen: 2 SHARE(1, 50, 000)
+ Total amount to be paid is 4 Lakhs 
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: shashi gupta
+Father's Name: munna gupta
+RollNumber: 30
+Email ID: shashi@gmail.com
+Contact Number: 1478523690
+Wants to take: MECH
+Wants to Join in School of Liberal Arts and Sciences
+Wants to be a Day Scholar 
+Had chosen: MECH(2, 50, 000)
+Had chosen: bus(40, 000)
+ Total amount to be paid is 2.9 Lakhs 
