@@ -1,3 +1,5 @@
+package fee_report;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.Image;
@@ -11,7 +13,7 @@ import java.io.IOException;
 
 
 // Creating the fee class
-public class FeeReport extends Frame {
+public class Fee_Report extends Frame {
 
 
 JLabel  l1, l2, l3, l4,l5, l6, l7, l8,l9,l10,l11,l12,l13,l14,l15;
@@ -25,7 +27,7 @@ JRadioButton rb1, rb2, rb3,rb4,rb5,rb6,rb7;
 JFileChooser f1;
 // Default constructor to
 // initialize the parameters
-FeeReport()
+Fee_Report()
 {
     l1 = new JLabel("Fee Report");
     l1.setBounds(650, 50, 350, 50);
@@ -409,7 +411,7 @@ FeeReport()
     }
     public static void main(String[] args)
     {
-        new FeeReport();
+        new Fee_Report();
     }
     }
 
